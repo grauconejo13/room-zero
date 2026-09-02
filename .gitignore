@@ -1,0 +1,22 @@
+# Godot generated files
+.godot/
+
+# Mono / C# generated files
+.mono/
+*.sln
+*.csproj
+
+# Blender backup and autosave files
+*.blend1
+*.blend2
+*.blend@
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Exported builds
+builds/
+exports/
